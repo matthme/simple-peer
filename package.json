@@ -82,5 +82,8 @@
       "type": "consulting",
       "url": "https://feross.org/support"
     }
-  ]
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
 }
